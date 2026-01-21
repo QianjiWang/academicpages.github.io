@@ -7,5 +7,6 @@ excerpt: 'This paper explores the conceptual framework and key technologies for 
 date: 2025-09-29
 venue: 'Computer Integrated Manufacturing Systems (in Chinese)'
 paperurl: 'https://doi.org/10.13196/j.cims.2024.Z21'
+citation: 
 ---
 This paper discusses the fusion of embodied intelligence with industrial robots, analyzing differences, architectures, and technologies like multi-sensor fusion, with validation through a planetary reducer assembly case.
