@@ -7,5 +7,6 @@ excerpt: 'This paper addresses limitations in robotic automated assembly by prop
 date: 2025-02-01
 venue: 'Journal of Manufacturing Systems (JMS, IF: 14.2)'
 paperurl: 'https://doi.org/10.1016/j.jmsy.2024.12.008'
+citation: 
 ---
 This paper proposes two modeling methodologies based on deep reinforcement learning for complex robotic assembly tasks. It introduces a refined SAC algorithm with policy-lead and LSTM integration, validated on planetary gear train assembly with high sim-to-real transferability.
