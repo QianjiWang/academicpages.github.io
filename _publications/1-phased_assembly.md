@@ -1,7 +1,7 @@
 ---
 title: "A phased robotic assembly policy based on a PL-LSTM-SAC algorithm"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2025-phased-robotic-assembly
 excerpt: 'This paper addresses limitations in robotic automated assembly by proposing phased modeling methodologies based on deep reinforcement learning, including a refined PL-LSTM-SAC algorithm. It validates the approach on planetary gear train assembly tasks, achieving high success rates and reduced contact forces.'
 date: 2025-02-01
