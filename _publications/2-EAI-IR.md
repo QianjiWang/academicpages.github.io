@@ -1,7 +1,7 @@
 ---
 title: "Embodied artificial intelligence industrial robot: Conceptual framework, key technologies, and case study"
 collection: publications
-category: Manuscript
+category: manuscripts
 permalink: /publication/2025-embodied-ai-industrial-robot
 excerpt: 'This paper explores the conceptual framework and key technologies for integrating embodied AI into industrial robots, with a case study on practical applications.'
 date: 2025-09-29
