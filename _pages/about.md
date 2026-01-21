@@ -92,7 +92,9 @@ Shaanxi Province Natural Science Foundation | 2025 – Present
 ## Open Source Projects
 
 - **End-to-End Robotic Assembly System (ERAS)**: Constructed a hierarchical embodied AI system integrating LLMs for high-level task planning with a skill library for low-level execution, achieving autonomous complex assembly.  
-  [GitHub: https://github.com/1538933805/ERAS](https://github.com/1538933805/ERAS)  
+  [GitHub: https://github.com/1538933805/ERAS](https://github.com/1538933805/ERAS)
+  **Demo Video**:  
+  ![ERAS Demo](https://github.com/QianjiWang/ERAS/blob/main/Video%20Introduction.mp4)
 
 - **ERAS-SkillTraining (MVUN-DP Implementation)**: Developed the Imitation Learning framework based on the MVUN-DP algorithm. Implemented multi-view sensory data integration for robust robotic assembly skill acquisition.  
   [GitHub: https://github.com/1538933805/ERAS-SkillTraining](https://github.com/1538933805/ERAS-SkillTraining)  
