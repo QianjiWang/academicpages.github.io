@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "1.png"
   name             : "Qianji Wang"
-  pronouns         : "he" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # "he" # example: "she/her"  
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "China"
   employer         : "Xidian University"
   uri              : # URL
@@ -37,10 +37,10 @@ author:
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
