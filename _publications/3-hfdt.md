@@ -7,6 +7,5 @@ excerpt: 'This paper presents the architecture and implementation details for hi
 date: 2023-06-16
 venue: '2023 International Conference on Frontiers of Robotics and Software Engineering (FRSE)'
 paperurl: 'https://doi.org/10.1109/FRSE58934.2023.00036'
-citation: 
 ---
 This conference paper details the design and deployment of digital twins for enhancing industrial robot simulations and operations.
