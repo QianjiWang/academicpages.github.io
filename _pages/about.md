@@ -39,7 +39,7 @@ GPA: 3.9/4.0 | Average Score: 90.8/100
   [https://doi.org/10.1016/j.jmsy.2024.12.008](https://doi.org/10.1016/j.jmsy.2024.12.008)  
 
 - **Toward generalizable robotic assembly: A prior-guided deep reinforcement learning approach with multi-sensor information**  
-  3rd author, Robotics and Computer-Integrated Manufacturing (RCIM, IF: 11.4), January 2026
+  3rd author, Robotics and Computer-Integrated Manufacturing (RCIM, IF: 11.4), January 2026  
   [https://doi.org/10.1016/j.rcim.2026.103242](https://doi.org/10.1016/j.rcim.2026.103242)
 
 - **Embodied artificial intelligence industrial robot: Conceptual framework, key technologies, and case study**  
