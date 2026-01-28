@@ -38,26 +38,29 @@ GPA: 3.9/4.0 | Average Score: 90.8/100
   1st author, Journal of Manufacturing Systems (JMS, IF: 14.2), February 2025  
   [https://doi.org/10.1016/j.jmsy.2024.12.008](https://doi.org/10.1016/j.jmsy.2024.12.008)  
 
+- **Toward generalizable robotic assembly: A prior-guided deep reinforcement learning approach with multi-sensor information**  
+  3rd author, Robotics and Computer-Integrated Manufacturing (RCIM, IF: 11.4), January 2026
+  [https://doi.org/10.1016/j.rcim.2026.103242](https://doi.org/10.1016/j.rcim.2026.103242)
+
 - **Embodied artificial intelligence industrial robot: Conceptual framework, key technologies, and case study**  
-  2nd author, Computer Integrated Manufacturing Systems, in Chinese  
+  2nd author, Computer Integrated Manufacturing Systems, in Chinese, September 2025  
   [https://doi.org/10.13196/j.cims.2024.Z21](https://doi.org/10.13196/j.cims.2024.Z21)  
 
 - **Architecture and Implementation of High-Fidelity Digital Twins for Industrial Robots**  
-  2023 International Conference on Frontiers of Robotics and Software Engineering (FRSE)  
-  [https://doi.org/10.1109/FRSE58934.2023.00036](https://doi.org/10.1109/FRSE58934.2023.00036)  
+  2023 International Conference on Frontiers of Robotics and Software Engineering (FRSE), June 2023  
+  [https://doi.org/10.1109/FRSE58934.2023.00036](https://doi.org/10.1109/FRSE58934.2023.00036)
+
 
 ---
 
 ## Accepted for Publication, Pending Release
 
-- **Toward generalizable robotic assembly: A prior-guided deep reinforcement learning approach with multi-sensor information**  
-  3rd author, submitted to Robotics and Computer-Integrated Manufacturing (RCIM, IF: 11.4)  
 
 ---
 
 ## Ongoing Research
 
-- **An MVUN-DP skill library-driven end-to-end Embodied AI robotic assembly method with LLMs** (Under Review)  
+- **An MVUN-DP skill library-driven Embodied AI robotic assembly method with LLMs** (Under Review)  
   1st author, submitted to Robotics and Computer-Integrated Manufacturing (RCIM, IF: 11.4)  
 
 ---
