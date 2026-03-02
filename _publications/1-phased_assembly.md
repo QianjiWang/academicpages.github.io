@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-phased-robotic-assembly
 excerpt: 'This paper addresses limitations in robotic automated assembly by proposing phased modeling methodologies based on deep reinforcement learning, including a refined PL-LSTM-SAC algorithm. It validates the approach on planetary gear train assembly tasks, achieving high success rates and reduced contact forces.'
 date: 2025-02-01
-venue: 'Journal of Manufacturing Systems1 (JMS, IF: 14.2)'
+venue: 'Journal of Manufacturing Systems (JMS, IF: 14.2)'
 paperurl: 'https://doi.org/10.1016/j.jmsy.2024.12.008'
 citation: 
 ---
